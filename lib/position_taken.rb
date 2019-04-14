@@ -1,3 +1,3 @@
 # code your #position_taken? method here!
 
-#position_taken? (board)
+#position_taken? (board,index)
